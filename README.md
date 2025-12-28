@@ -5,7 +5,7 @@ I am an **Electronic Engineer** with a unique background: **5 years of field exp
 I understand the factory floor Hardware (OT) and Software(IT). I have commissioned **Siemens & Allen Bradley PLCs**, designed HMIs, and now I build the cloud infrastructure to visualize that data.
 
 - 🔭 I’m currently working on: **Containerized IIoT Telemetry Stacks (Docker, Node-RED, InfluxDB)**
-- 🎓 Master's Thesis: ** Industrial IoT and Blockchain Technology**
+- 🎓 Master's Thesis: **Industrial IoT and Blockchain Technology**
 - 💼 Professional Background: **Sales & Application Engineer (5 Years)** - Specializing in TIA Portal & Studio 5000.
 - ⚡ **The Bridge:** I once connected a legacy **Siemens S7-1200 PLC** to the Cloud using an **ESP8266 & MQTT** to monitor injection molding energy usage.
 
@@ -29,15 +29,7 @@ I understand the factory floor Hardware (OT) and Software(IT). I have commission
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
 
-### 📊 GitHub Stats
-<p align="left">
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-TAY&show_icons=true&theme=dark" alt="Abdullah's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-TAY&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-</p>
 
 ---
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abdullah-khanzada-038202b3/)
