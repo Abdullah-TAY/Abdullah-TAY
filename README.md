@@ -33,8 +33,10 @@ I understand the factory floor Hardware (OT) and Software(IT). I have commission
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-TAY&show_icons=true&theme=radical&hide_border=true" alt="Abdullah's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-TAY&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-TAY&show_icons=true&theme=dark" alt="Abdullah's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-TAY&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 </p>
 
 ---
