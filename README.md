@@ -32,4 +32,4 @@ I understand the factory floor Hardware (OT) and Software(IT). I have commission
 
 
 ---
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abdullah-khanzada-038202b3/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abdullahkhanzada/)
